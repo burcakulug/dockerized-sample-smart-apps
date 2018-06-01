@@ -1,0 +1,11 @@
+{
+  "name": "sample-smart-apps",
+  "version": "0.1.0",
+  "scripts": {
+    "serve": "http-server -p 9000 -c-1 .",
+    "start": "npm run serve"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
