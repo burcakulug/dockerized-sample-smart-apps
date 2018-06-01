@@ -1,4 +1,4 @@
-# Dockerized Sample SMART on FHIR Apps
+# Dockerized Sample SMART on FHIR Apps (WARNING: NOT FOR PRODUCTION USE)
 
 ## Build
 
