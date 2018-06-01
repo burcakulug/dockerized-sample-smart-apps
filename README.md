@@ -6,7 +6,7 @@
 
 ## Run
 
-`docker run -d -p 9000:9000 burcakulug/dockerized-sample-smart-apps`
+`docker run -d -p 9000:9000 --restart always burcakulug/dockerized-sample-smart-apps`
 
 ## Supported Sample Apps
 
